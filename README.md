@@ -1,4 +1,4 @@
 lobby-gamehelp
 ==============
 
-{%gist 5744972 %}
+{% gist 5555251 gist.md %}
