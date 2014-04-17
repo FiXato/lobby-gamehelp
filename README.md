@@ -1,4 +1,4 @@
-lobby-gamehelp
+[lobby-gamehelp](http://fixato.github.io/lobby-gamehelp/)
 ==============
 
-{% gist 5555251 gist.md %}
+Available in full on http://fixato.github.io/lobby-gamehelp/
